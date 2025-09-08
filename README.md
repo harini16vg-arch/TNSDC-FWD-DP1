@@ -2,5 +2,5 @@
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/harini-vg/pen/myeaBaa](https://codepen.io/harini-vg/pen/myeaBaa).
+Original URL: [https://harini16vg-arch.github.io/TNSDC-FWD-DP1/](https://harini16vg-arch.github.io/TNSDC-FWD-DP1/).
 
